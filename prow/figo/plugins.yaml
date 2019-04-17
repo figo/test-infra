@@ -1,0 +1,26 @@
+plugins:
+  figo/k8s-conformance-ci:
+  - trigger
+  - approve
+  - assign
+  - blunderbuss
+  - cat
+  - cla
+  - dog
+  - golint
+  - heart
+  - help
+  - hold
+  - label
+  - lgtm
+  - lifecycle
+  - owners-label
+  - pony
+  - shrug
+  - sigmention
+  - size
+  - skip
+  - slackevents
+  - verify-owners
+  - wip
+  - yuks
